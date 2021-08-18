@@ -2,11 +2,6 @@
 
 Aplicativo de cinema com tradução, login, cadastro, dashboard sem back-end.
 
-# CineFlash Logo
-<p align="center">
-  <img src="assets/logo1.png" alt="animated" />
-</p>
-
 # Tela de configuração de idioma
 <p align="center">
   <img src="img/tela1.png" alt="animated" />
