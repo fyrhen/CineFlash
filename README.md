@@ -1,33 +1,33 @@
-# Aplicativo feito com React Native
+# Application made with React Native
 
-Aplicativo de cinema com tradução, login, cadastro, dashboard sem back-end.
+Cinema App with translation, login, registration, dashboard without backend.
 
-# Tela de configuração de idioma
+# Language setup screen
 <p align="center">
   <img src="img/tela1.png" alt="animated" />
 </p>
 
-# Tela de login
+# Login screen
 <p align="center">
   <img src="img/tela2.png" alt="animated" />
 </p>
 
-# Tela de cadastro
+# Registration screen
 <p align="center">
   <img src="img/tela3.png" alt="animated" />
 </p>
 
-# Tela de dashboard
+# Dashboard screen
 <p align="center">
   <img src="img/tela4.png" alt="animated" />
 </p>
 
-# Tela de ajuda
+# Help screen
 <p align="center">
   <img src="img/tela5.png" alt="animated" />
 </p>
 
-# Tela de sair
+# Leave screen
 <p align="center">
   <img src="img/tela6.png" alt="animated" />
 </p>
